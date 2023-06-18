@@ -2,3 +2,5 @@
 
 def test ():
   print("test repo")
+
+test()
